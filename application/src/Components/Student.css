@@ -1,0 +1,37 @@
+
+.form-label{
+    float: left;
+}
+
+
+/* .container{
+    border: 2px solid black;
+    
+   
+   
+} */
+.row {
+    /* border:solid black; */
+    justify-content: center;
+    margin: 15px;
+    display: flex;
+    /* text-align: center; */
+    
+}
+h2{
+    float: left;
+    margin-left: 8%;
+    
+}
+#btn-submit{
+    float: left;
+   
+}
+#btn-reset{
+    float: right;
+    background-color: red;
+    border: none;
+}
+.radio_btn{
+    margin-right: 30px;
+}
